@@ -1,11 +1,13 @@
-# runserver.py  – small launcher so we don't rely on the uvicorn CLI directly
+# runserver.py
+import os
 import uvicorn
-from app import app  # FastAPI instance from app.py
+from app import app
 
 if __name__ == "__main__":
     uvicorn.run(
         app,
         host="0.0.0.0",
-        port=int(os.environ.get("PORT", 8080)),  # Render sets $PORT automatically
-        reload=True,  # enable live-reload (useful during dev)
+        port=int(os.environ.get("PORT", 8080)),
+        reload=True,
     )
+
