@@ -1,0 +1,91 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "EchoSim API",
+    "version": "3.2.0",
+    "description": "HF simulation with advanced gamification"
+  },
+  "servers": [
+    { "url": "https://hf-sswi.onrender.com", "description": "Prod" }
+  ],
+  "paths": {
+    "/record_decision": {
+      "post": {
+        "operationId": "recordDecision",
+        "tags": ["Gameplay"],
+        "summary": "Log learner decision",
+        "parameters": [
+          { "in": "query", "name": "user_id", "required": true, "schema": { "type": "string" } },
+          { "in": "query", "name": "action", "required": true, "schema": { "type": "string" } },
+          { "in": "query", "name": "outcome", "required": true,
+            "schema": { "type": "string", "enum": ["correct","partial","incorrect"] } },
+          { "in": "query", "name": "confidence", "required": true,
+            "schema": { "type": "string", "enum": ["sure","unsure"] } }
+        ],
+        "responses": {
+          "200": { "description": "Gamestate", "content":
+            { "application/json": { "schema": { "$ref": "#/components/schemas/GameState" } } } }
+        }
+      }
+    },
+
+    "/night_shift_page": {
+      "get": {
+        "operationId": "nightShiftQuiz",
+        "tags": ["Gameplay"],
+        "summary": "Rapid recall quiz when alert debt high",
+        "parameters": [
+          { "in": "query", "name": "user_id", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": { "description": "Mini-quiz",
+            "content": { "application/json": { "schema": { "$ref": "#/components/schemas/NightShift" } } } }
+        }
+      }
+    },
+
+    "/generate_banner_svg": {
+      "get": {
+        "operationId": "generateBanner",
+        "tags": ["Assets"],
+        "summary": "Return SVG banner with compass & ladder",
+        "parameters": [
+          { "name": p, "in": "query", "schema": { "type": "integer" } }
+          for p in [
+            "xp_diag","xp_emp","xp_sys","combo","coins",
+            "focus","stress","cbw",
+            "pill_ace","pill_bb","pill_mra","pill_sglt2",
+            "device_stage",
+            "token_anemia","token_ckd","token_af"
+          ]
+        ],
+        "responses": { "200": { "description": "SVG", "content": { "image/svg+xml": {} } } }
+      }
+    }
+  },
+
+  "components": {
+    "schemas": {
+      "GameState": {
+        "type": "object",
+        "properties": {
+          "xp_diag": { "type": "integer" }, "xp_emp": { "type": "integer" }, "xp_sys": { "type": "integer" },
+          "combo": { "type": "integer" }, "coins": { "type": "integer" },
+          "focus": { "type": "integer" }, "stress": { "type": "integer" }, "cbw": { "type": "integer" },
+          "pill_ace": { "type": "integer" }, "pill_bb": { "type": "integer" },
+          "pill_mra": { "type": "integer" }, "pill_sglt2": { "type": "integer" },
+          "device_stage": { "type": "integer" },
+          "token_anemia": { "type": "integer" }, "token_ckd": { "type": "integer" }, "token_af": { "type": "integer" },
+          "alert_debt": { "type": "integer" }, "needs_night_shift": { "type": "boolean" }
+        }
+      },
+      "NightShift": {
+        "type": "object",
+        "properties": {
+          "questions": { "type": "array", "items": { "type": "string" } },
+          "expiry_seconds": { "type": "integer", "example": 90 }
+        }
+      }
+    }
+  }
+}
