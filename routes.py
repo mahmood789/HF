@@ -4,12 +4,13 @@ import state
 
 router = APIRouter()
 
+# ---------- gameplay ----------
 @router.post("/record_decision", tags=["Gameplay"])
 def record_decision(
     user_id: str = Query(...),
     action: str = Query(...),
-    outcome: str = Query(..., regex="^(correct|partial|incorrect)$"),
-    confidence: str = Query(..., regex="^(sure|unsure)$")
+    outcome: str = Query(..., pattern="^(correct|partial|incorrect)$"),
+    confidence: str = Query(..., pattern="^(sure|unsure)$")
 ):
     try:
         return state.evaluate(user_id, action, outcome, confidence)
@@ -20,11 +21,12 @@ def record_decision(
 def night_shift_page(user_id: str):
     return state.night_shift_questions(user_id)
 
+# ---------- banner ----------
 @router.get("/generate_banner_svg", tags=["Assets"])
 def banner_svg(**params):
     """
     Fills banner_template.svg placeholders with query params.
-    XP values are multiplied by 4 to convert points → pixel width.
+    XP bars are scaled: 1 XP point → 4 px width; min width 1 px so bar is visible.
     """
     tpl = Path("banner_template.svg").read_text()
 
@@ -37,9 +39,10 @@ def banner_svg(**params):
     ]
     payload = {k: int(params.get(k, 0)) for k in keys}
 
-    # scale XP to pixel width (1 XP = 4 px)
-    for k in ("xp_diag", "xp_sys", "xp_emp"):
-        payload[k] *= 4
+    # scale XP
+    for xp in ("xp_diag", "xp_sys", "xp_emp"):
+        payload[xp] = max(1, payload[xp] * 4)  # 1-px minimum
 
     svg = tpl.format(**payload)
-    return Response(svg, media_type="image/svg+xml")
+    return Response(svg, media_type="image/svg+xml",
+                    headers={"Cache-Control": "no-store"})
