@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="90" viewBox="0 0 640 90"
+     xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+
+  <!-- background -->
+  <rect width="640" height="90" fill="#1a1d24" rx="6"/>
+
+  <!-- XP bars -->
+  <text x="10" y="15" font-size="10" fill="#fff">Diagnostic</text>
+  <rect x="80" y="7" width="{xp_diag}" height="8" fill="#4caf50" rx="2"/>
+  <text x="10" y="31" font-size="10" fill="#fff">Systems</text>
+  <rect x="80" y="23" width="{xp_sys}" height="8" fill="#ff9800" rx="2"/>
+  <text x="10" y="47" font-size="10" fill="#fff">Empathy</text>
+  <rect x="80" y="39" width="{xp_emp}" height="8" fill="#2196f3" rx="2"/>
+
+  <!-- combo / coins -->
+  <text x="10" y="66" font-size="11" fill="#ffe082">⭐{combo}</text>
+  <text x="50" y="66" font-size="11" fill="#ffd54f">🪙{coins}</text>
+
+  <!-- focus / stress / cbw -->
+  <text x="110" y="66" font-size="11" fill="#8bc34a">Focus {focus}%</text>
+  <text x="230" y="66" font-size="11" fill="#f44336">Stress {stress}%</text>
+  <text x="330" y="66" font-size="11" fill="#b39ddb">CBW {cbw}%</text>
+
+  <!-- Pillar compass -->
+  <g transform="translate(445,20)">
+    <circle cx="0"  cy="0"  r="7" fill="#2e7d32" fill-opacity="{pill_ace}"/>
+    <circle cx="24" cy="0"  r="7" fill="#1565c0" fill-opacity="{pill_bb}"/>
+    <circle cx="12" cy="20" r="7" fill="#795548" fill-opacity="{pill_mra}"/>
+    <circle cx="36" cy="20" r="7" fill="#c2185b" fill-opacity="{pill_sglt2}"/>
+    <text x="-16" y="-8" font-size="8" fill="#fff">Pillars</text>
+  </g>
+
+  <!-- Device ladder -->
+  <g transform="translate(520,8)">
+    <rect x="0" y="0" width="10" height="66" fill="#5e5e5e" rx="3"/>
+    <rect x="0" y="{66 - 22*device_stage}" width="10" height="{22*device_stage}" fill="#9c27b0" rx="3"/>
+    <text x="15" y="10" font-size="8" fill="#fff">CRT</text>
+    <text x="15" y="32" font-size="8" fill="#fff">CRT-D</text>
+    <text x="15" y="54" font-size="8" fill="#fff">LVAD</text>
+  </g>
+
+  <!-- Comorbidity tokens -->
+  <g transform="translate(590,20)">
+    <circle cx="0" cy="0"  r="6" fill="#ffcdd2" fill-opacity="{token_anemia}"/>
+    <circle cx="0" cy="18" r="6" fill="#b3e5fc" fill-opacity="{token_ckd}"/>
+    <circle cx="0" cy="36" r="6" fill="#d1c4e9" fill-opacity="{token_af}"/>
+    <text x="-14" y="-8" font-size="8" fill="#fff">Tokens</text>
+  </g>
+</svg>
