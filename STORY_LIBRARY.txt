@@ -1,243 +1,415 @@
-### STORY_LIBRARY.txt
-*Dual-diary narrative · all images self-hosted under /static.*
-
-----------------------------------------------------------------
-## Act I · Arrival & Rising Water
-----------------------------------------------------------------
-
-### Scene 1 – Rain Gathers
-*Sam (diary)* Rain scribbles …  
-*Amina (diary)* Needles click …  
-**🧠 Question** Which sign favours heart failure over COPD?  
-- A. Raised JVP  
-- B. Long wheeze  
-- C. Crackles  
-**✅ Correct** A **💡 Hint** Neck rarely lies. **📘 Pearl** JVP > 4 cm strongly suggests HF. **🏅 XP** diagnostic  
-![JVP animation](/static/jvp-v-waves-gif-animation.gif)  
-Choose A, B, or C →
+*Dual‑diary narrative · all images self‑hosted under /static.*
 
 ---
 
-### Scene 2 – Corridor Flash
-*Sam (diary)* Lightning prints …  
-*Amina (diary)* The ceiling bursts …  
-**🧠 Question** Next decisive test?  
-- A. BNP  
-- B. CTPA  
-- C. HRCT  
-**✅ Correct** A **💡 Hint** Blood before beam. **📘 Pearl** BNP < 100 pg/mL almost rules out HF. **🏅 XP** diagnostic  
-![Beating heart CGI](/static/CG_Heart.gif)  
-Choose A, B, or C →
+## Prologue · Distant Thunder
 
 ---
 
-### Scene 3 – First Dose
-…  
-**🧠 Question** Immediate effect of IV loop diuretic on afterload?  
-- A. Increase  
-- B. Decrease  
-- C. No change  
-**✅ Correct** B **💡 Hint** Veins relax first. **📘 Pearl** Loops lower pre- & after-load within minutes. **🏅 XP** systems  
-![Pitting oedema](/static/Combinpedal.jpg)  
-Choose A, B, or C →
+### Prelude 1 – Thunder Letters
+
+*Sam (diary)* The sluice of spring rain drums on the bus roof as I flip my clerking pad; sixes insist on becoming nines, but I breathe, slow the graphite, and keep the numbers honest.
+*Amina (diary)* The journey here shook me like dice; Musa counted every lamppost—one hundred and twelve—while I practised saying "breathlessness" without sounding afraid.
+**🧠 Question** A raised jugular venous pressure primarily reflects which haemodynamic change?
+
+* A. Elevated right‑atrial pressure
+* B. Increased pulmonary compliance
+* C. Reduced systemic vascular resistance
+  **✅ Correct** A **💡 Hint** The neck mirrors the right atrium. **📘 Pearl** Persistent JVP > 4 cm predicts worse de‑congestion outcomes. **🏅 XP** diagnostic
+  ![JVP animation](https://hf-sswi.onrender.com/static/jvp-v-waves-gif-animation.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 4 – Crackles
-…  
-**🧠 Question** Fine crackles most likely indicate:  
-- A. Pleural rub  
-- B. Interstitial fluid  
-- C. Bronchospasm  
-**✅ Correct** B **💡 Hint** Fluid whispers. **📘 Pearl** Early oedema produces fine crepts. **🏅 XP** diagnostic  
-![Fine crepitations](https://archive.org/download/crackles-fine-rales/cfr1.gif)  
-Choose A, B, or C →
+### Prelude 2 – Waiting‑Room Murmur
+
+*Sam (diary)* Fluorescent light blinks Morse above reception; Musa rocks gently, headphones cushioning the world. I rehearse the Lake Louise criteria in my mind, hoping to avoid stammering.
+*Amina (diary)* Sam greets us with a shy smile that wobbles like wet ink. I clutch my inhaler though it's my heart that flutters.
+**🧠 Question** Which blood test is most useful for *ruling out* acute heart failure in the emergency department?
+
+* A. NT‑proBNP below age‑adjusted threshold
+* B. Random troponin T
+* C. D‑dimer
+  **✅ Correct** A **💡 Hint** Low peptides, low probability. **📘 Pearl** A level < 300 pg/mL has a negative predictive value > 98 %. **🏅 XP** diagnostic
+  ![BNP tube](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 5 – First Film
-…  
-**🧠 Question** Radiograph suggests:  
-- A. Effusion  
-- B. Pulmonary oedema  
-- C. Collapse  
-**✅ Correct** B **💡 Hint** Wings reveal water. **📘 Pearl** Bat-wing + Kerley lines = oedema. **🏅 XP** diagnostic  
-![Pulmonary oedema CXR](/static/C11-FF3-2.gif)  
-Choose A, B, or C →
-
-----------------------------------------------------------------
-## Act II · Trials & Insight
-----------------------------------------------------------------
-
-### Scene 1 – Normal Echo
-…  
-**🧠 Question** LV function?  
-- A. Normal  
-- B. Moderate  
-- C. Severe  
-**✅ Correct** A **💡 Hint** Walls move well. **📘 Pearl** EF ≥ 55 % is normal. **🏅 XP** diagnostic  
-![Normal 4-ch echo](/static/normal-TTE-4-chamber.gif)  
-Choose A, B, or C →
+## Act I · Arrival & Rising Water
 
 ---
 
-### Scene 2 – Poor Echo
-…  
-**🧠 Question** EF category?  
-- A. > 50 %  
-- B. 40–49 %  
-- C. < 40 %  
-**✅ Correct** C **💡 Hint** Weak squeeze. **📘 Pearl** EF < 40 % defines HFrEF. **🏅 XP** diagnostic  
-![Reduced-EF echo](/static/OH-echo-CM.gif)  
-Choose A, B, or C →
+### Scene 1 – Rain Gathers
+
+*Sam (diary)* Triage bay smells of disinfectant and wet coats. My clipboard is already peppered with droplets; every creak of his lungs draws shapes on the sonar of my brain.
+*Amina (diary)* Needles click in metal trays; the pulse oximeter squeezes my finger like an anxious hand. "We’ll chase the rain away," Sam whispers.
+**🧠 Question** Which clinical sign most clearly differentiates heart failure from an acute asthma exacerbation?
+
+* A. Elevated JVP
+* B. Prolonged expiratory wheeze
+* C. Polyphonic rhonchi
+  **✅ Correct** A **💡 Hint** Neck seldom lies. **📘 Pearl** Venous column directly communicates with central venous pressure. **🏅 XP** diagnostic
+  ![JVP animation](https://hf-sswi.onrender.com/static/jvp-v-waves-gif-animation.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 3 – Consultant’s Challenge
-…  
-**🧠 Question** Preserved EF shown by:  
-- A. First gif  
-- B. Second  
-- C. Neither  
-**✅ Correct** A **💡 Hint** Wide stroke. **📘 Pearl** Preserved EF keeps cavity size. **🏅 XP** empathy  
-![Preserved-EF graphic](/static/Normal-ejected-fraction-1.gif)  
-Choose A, B, or C →
+### Scene 2 – Corridor Flash
+
+*Sam (diary)* Lightning forks outside the glass ceiling; inside, monitors echo it with electric hum. I slide the NT‑proBNP request into the chute, praying the lab gods are swift.
+*Amina (diary)* Every tannoy crack snaps Musa’s focus; he covers his ears and counts again while I exhale against the oxygen.
+**🧠 Question** After chest X‑ray, which **blood‑based** investigation most rapidly supports the diagnosis of decompensated heart failure?
+
+* A. NT‑proBNP
+* B. Serum creatinine
+* C. C‑reactive protein
+  **✅ Correct** A **💡 Hint** Hormones of stretch. **📘 Pearl** Peptide doubling from baseline heralds worsening congestion. **🏅 XP** diagnostic
+  ![Beating heart CGI](https://hf-sswi.onrender.com/static/CG_Heart.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 4 – Kerley Lines
-…  
-**🧠 Question** Kerley B lines signify:  
-- A. Septal thickening  
-- B. Bronchial oedema  
-- C. Pneumothorax edge  
-**✅ Correct** A **💡 Hint** Straight, short. **📘 Pearl** Septal fluid marks overload. **🏅 XP** diagnostic  
-![Kerley-B lines](/static/Kerley-B-Linien.jpg)  
-Choose A, B, or C →
+### Scene 3 – First Dose
+
+*Sam (diary)* Frusemide spirals down the IV line like clear thunder; I watch her neck veins settle as though the ward floor just tipped.
+*Amina (diary)* Cool rush in my arm, then the urge to breathe deep, as if space opened behind my ribs.
+**🧠 Question** Loop diuretics exert their *initial* haemodynamic benefit predominantly by which mechanism?
+
+* A. Venodilation reducing preload
+* B. Direct positive inotropy
+* C. Coronary vasoconstriction
+  **✅ Correct** A **💡 Hint** Veins relax first. **📘 Pearl** Venous pooling precedes natriuresis, dropping LV filling pressure within minutes. **🏅 XP** systems
+  ![Pitting oedema](https://hf-sswi.onrender.com/static/Combinpedal.jpg)
+  Choose A, B, or C →
 
 ---
 
-### Scene 5 – Dual Proof
-…  
-**🧠 Question** Combined images confirm:  
-- A. Pneumonia  
-- B. Acute oedema  
-- C. Sarcoid  
-**✅ Correct** B **💡 Hint** Two views, same storm. **📘 Pearl** CT glass mirrors film haze. **🏅 XP** diagnostic  
-![CT and CXR oedema](/static/C11-FF5-2.gif)  
-Choose A, B, or C →
+### Scene 4 – Sam’s Slip
+
+*Sam (diary)* The electronic chart arcs red—"dose outside range"—my transposed digits nearly quadrupled the furosemide. My ears burn; I page the registrar before fear calcifies.
+*Amina (diary)* Sam murmurs apologies that weigh less than my relief; mistakes happen, but fixes matter.
+**🧠 Question** According to hospital medication‑safety policy, the *first* step after recognising a prescribing error is to:
+
+* A. Notify a senior or pharmacist immediately
+* B. Hide and correct the chart silently
+* C. File incident report without informing patient
+  **✅ Correct** A **💡 Hint** Two sets of eyes. **📘 Pearl** Early escalation prevents double‑dosing and builds team learning culture. **🏅 XP** systems
+  ![Double‑check icon](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 6 – Poster Lesson
-…  
-**🧠 Question** Sign of right-sided overload?  
-- A. Breathless  
-- B. Leg swelling  
-- C. Orthopnoea  
-**✅ Correct** B **💡 Hint** Gravity tells. **📘 Pearl** Peripheral oedema = systemic congestion. **🏅 XP** empathy  
-![HF leg & lung graphic](/static/Heartfailure.jpg)  
-Choose A, B, or C →
+### Scene 5 – Crackles
 
-----------------------------------------------------------------
-## Act III · Recovery & Departure
-----------------------------------------------------------------
+*Sam (diary)* Fine bubbles rise with each inhale, like cola in a glass; they burst into silence at the clavicle line.
+*Amina (diary)* Sam’s stethoscope is cold yet gentle; Musa notes the rhythm of my breaths, tapping it on his knee.
+**🧠 Question** Fine end‑inspiratory crackles are most consistent with fluid accumulation in which lung compartment?
 
-### Scene 1 – MRI Clarity
-…  
-**🧠 Question** Main MRI finding?  
-- A. LVH  
-- B. Dilated LV  
-- C. Apical clot  
-**✅ Correct** B **💡 Hint** Enlarged chamber. **📘 Pearl** MRI refines EF & scar. **🏅 XP** diagnostic  
-![Dilated-LV MRI](/static/JT-mri-2ch-LVH.gif)  
-Choose A, B, or C →
+* A. Interlobular septa
+* B. Pleural space
+* C. Large bronchi
+  **✅ Correct** A **💡 Hint** Septal snap. **📘 Pearl** Thickened septa snap open at end inspiration, creating ‘Velcro’ sounds. **🏅 XP** diagnostic
+  ![Fine crepitations](https://archive.org/download/crackles-fine-rales/cfr1.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 2 – Better Echo
-…  
-**🧠 Question** Current LV status?  
-- A. Normal  
-- B. Moderate  
-- C. Severe  
-**✅ Correct** B **💡 Hint** Mid squeeze. **📘 Pearl** EF 40–49 % is moderate. **🏅 XP** systems  
-![Moderate-EF echo](/static/MH-echo-hypercm.gif)  
-Choose A, B, or C →
+### Scene 6 – First Film
+
+*Sam (diary)* The X‑ray blooms on screen: bat‑wings of haze, vascular pedicle wide as the Thames.
+*Amina (diary)* I glimpse the ghostly picture—lungs that look like storm clouds, strangely beautiful.
+**🧠 Question** Which radiographic pattern most strongly suggests acute pulmonary oedema?
+
+* A. Perihilar bat‑wing opacity
+* B. Sharp costophrenic angle blunting
+* C. Unilateral lobar consolidation
+  **✅ Correct** A **💡 Hint** Wings reveal water. **📘 Pearl** Symmetrical perihilar opacities with normal diaphragm height point to fluid rather than infection. **🏅 XP** diagnostic
+  ![Pulmonary oedema CXR](https://hf-sswi.onrender.com/static/C11-FF3-2.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 3 – Calm Graphic
-…  
-**🧠 Question** Graphic shows:  
-- A. Reduced EF  
-- B. Preserved EF  
-- C. Restrictive pattern  
-**✅ Correct** B **💡 Hint** Full stroke. **📘 Pearl** HFpEF differs from HFrEF. **🏅 XP** empathy  
-![Preserved-EF graphic](/static/Preserved-Ejection-Fraction.gif)  
-Choose A, B, or C →
+### Scene 7 – Dosing Decision
+
+*Sam (diary)* Urine bag fills like rapid tide; electrolytes ping on the system—potassium dipping. I twirl the pen, calculating replacements.
+*Amina (diary)* Salted crisps no longer tempt me; I taste metal and rain.
+**🧠 Question** Which electrolyte must be monitored *most urgently* within the first 6 hours of high‑dose loop diuretic therapy?
+
+* A. Potassium
+* B. Calcium
+* C. Phosphate
+  **✅ Correct** A **💡 Hint** K⁺ sinks with the tide. **📘 Pearl** Hypokalaemia heightens arrhythmia risk when loops trigger kaliuresis. **🏅 XP** systems
+  ![Electrolyte chart](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 4 – Scale Watch
-…  
-**🧠 Question** Best ward metric for volume?  
-- A. Daily weight  
-- B. Random BNP  
-- C. One diuresis chart  
-**✅ Correct** A **💡 Hint** Scales don’t lie. **📘 Pearl** Weight change tracks fluid. **🏅 XP** systems  
-![Pitting oedema](/static/Combinpedal.jpg)  
-Choose A, B, or C →
+### Scene 8 – Therapy Threshold
+
+*Sam (diary)* Blood pressure steadies at 108/66; time to introduce the first disease‑modifying agent before the window shuts.
+*Amina (diary)* Pills multiply like raindrops on glass; Sam explains each one, voice slow, eyes steady.
+**🧠 Question** Which medication class is *typically* started first after haemodynamic stabilisation in newly diagnosed HFrEF?
+
+* A. ACE inhibitor or ARNI
+* B. Digoxin
+* C. Intravenous vasodilator infusion
+  **✅ Correct** A **💡 Hint** Start with neuro‑hormonal blockade. **📘 Pearl** Early renin–angiotensin inhibition improves ventricular remodelling trajectory. **🏅 XP** systems
+  ![ACE pill graphic](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
 
 ---
 
-### Scene 5 – Open Door
-…  
-**🧠 Question** HF-clinic follow-up timing?  
-- A. GP 6 wks  
-- B. ≤ 2 wks  
-- C. Cardiologist 12 wks  
-**✅ Correct** B **💡 Hint** Early hands steady recovery. **📘 Pearl** ≤ 14 days lowers readmits. **🏅 XP** empathy  
-![Reduced-EF graphic](/static/Reduced-Ejected-Fraction.gif)  
-Choose A, B, or C →
-
-----------------------------------------------------------------
-## Add-On Scenes · Advanced Therapy
-----------------------------------------------------------------
-
-### Pillar – SGLT2 Start
-…  
-**🧠 Question** Which SGLT2 inhibitor cut CV death/HF admission by 26 %?  
-- A. Dapagliflozin  
-- B. Canagliflozin  
-- C. Empagliflozin  
-**✅ Correct** A **💡 Hint** DAPA-HF trial. **📘 Pearl** Trials used eGFR ≥ 30. **🏅 XP** systems  
-![Reduced-EF graphic](/static/Reduced-Ejected-Fraction.gif)  
-Choose A, B, or C →
+## Act II · Trials & Insight
 
 ---
 
-### Anaemia Interlude
-*Nurse (audio)* “Hb 96 g/L, ferritin 40 µg/L.”  
-**🧠 Question** Best next step?  
-- A. IV iron  
-- B. Oral iron  
-- C. ESA therapy  
-**✅ Correct** A **💡 Hint** Ferritin < 100. **📘 Pearl** IV iron improves 6-minute walk & QoL in HF. **🏅 XP** systems  
-![Moderate-EF echo](/static/MH-echo-hypercm.gif)  
-Choose A, B, or C →
+### Scene 1 – Echo Window
+
+*Sam (diary)* Ultrasound waves paint silver silhouettes; the left ventricle contracts with disciplined grace, walls kissing at every beat.
+*Amina (diary)* On the screen, my heartbeat looks like a baby’s fist opening and closing—delicate yet determined.
+**🧠 Question** An ejection fraction of 60 % is classified as:
+
+* A. Normal systolic function
+* B. Mid‑range dysfunction
+* C. Reduced systolic function
+  **✅ Correct** A **💡 Hint** Above fifty‑five is healthy squeeze. **📘 Pearl** Preserved EF demands diastolic scrutiny despite normal pump strength. **🏅 XP** diagnostic
+  ![Normal echo](https://hf-sswi.onrender.com/static/normal-TTE-4-chamber.gif)
+  Choose A, B, or C →
 
 ---
 
-### Device-Ladder Step
-…  
-**🧠 Question** Device of choice?  
-- A. CRT  
-- B. ICD only  
-- C. LVAD  
-**✅ Correct** A **💡 Hint** LBBB ≥ 150 ms in guidelines. **📘 Pearl** CRT linked to reverse remodelling. **🏅 XP** systems  
-![Reduced-EF echo](/static/OH-echo-CM.gif)  
-Choose A, B, or C →
+### Scene 2 – Weakened Wave
 
-----------------------------------------------------------------
+*Sam (diary)* Another patient, another image: ventricular walls move sluggishly, like tired doors returning late.
+*Amina (diary)* Sam’s brow furrows; I wonder if that’s how my own heart looked months ago.
+**🧠 Question** An EF of 35 % falls into which guideline category?
+
+* A. Reduced (HFrEF)
+* B. Mildly reduced
+* C. Preserved
+  **✅ Correct** A **💡 Hint** Under forty joins the red zone. **📘 Pearl** HFrEF triggers quadruple‑therapy initiation to curb remodelling. **🏅 XP** diagnostic
+  ![Reduced‑EF echo](https://hf-sswi.onrender.com/static/OH-echo-CM.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 3 – ARNI Switch
+
+*Sam (diary)* The word “sacubitril” still tangles my tongue, but the science is clear; time to trade the ACE for a stronger shield.
+*Amina (diary)* Sam outlines a two‑day washout, drawing tiny bridges between pills on the chart so I understand the gap.
+**🧠 Question** Before starting an ARNI, how long should an ACE inhibitor be discontinued to minimise angio‑oedema risk?
+
+* A. 36 hours
+* B. 12 hours
+* C. 6 hours
+  **✅ Correct** A **💡 Hint** A day‑and‑a‑half breather. **📘 Pearl** Combined neprilysin and ACE inhibition spikes bradykinin; spacing prevents overlap. **🏅 XP** systems
+  ![ARNI pill](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 4 – Beta Bout
+
+*Sam (diary)* Metoprolol titration feels like coaxing a skittish bird; too fast, it flees into bradycardia, too slow, it never lands.
+*Amina (diary)* Pulse settles into a calm tap against my wrist; Musa counts silently and smiles.
+**🧠 Question** The ideal resting heart‑rate target when titrating beta‑blockers in sinus rhythm is:
+
+* A. 60–70 bpm
+* B. 80–90 bpm
+* C. < 50 bpm
+  **✅ Correct** A **💡 Hint** Mid‑sixties sweet spot. **📘 Pearl** Optimal HR improves diastolic filling time without provoking fatigue. **🏅 XP** systems
+  ![Heartrate gauge](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 5 – Kerley Lines
+
+*Sam (diary)* Thin white dashes march like pickets at the lung bases—Kerley B, scouts of interstitial fluid.
+*Amina (diary)* Each white line looks harmless, yet Sam’s quiet tone says otherwise.
+**🧠 Question** Kerley B lines represent fluid within which structures?
+
+* A. Interlobular septa
+* B. Secondary pulmonary lobules
+* C. Pleural fissures
+  **✅ Correct** A **💡 Hint** Septal picket fence. **📘 Pearl** They vanish when diuresis dries the interstitium. **🏅 XP** diagnostic
+  ![Kerley‑B lines](https://hf-sswi.onrender.com/static/Kerley-B-Linien.jpg)
+  Choose A, B, or C →
+
+---
+
+### Scene 6 – Ferritin Flag
+
+*Sam (diary)* Iron panel returns: ferritin 48 µg/L, TSAT 15 %. I recall the trial that painted iron as fuel for tired hearts.
+*Amina (diary)* Exhaustion has grown roots in my bones; maybe iron is water for them.
+**🧠 Question** Intravenous iron therapy is recommended when ferritin is below:
+
+* A. 100 µg/L
+* B. 200 µg/L
+* C. 500 µg/L
+  **✅ Correct** A **💡 Hint** Low store, low stamina. **📘 Pearl** Iron repletion improves 6‑minute walk distance and symptoms in HF. **🏅 XP** systems
+  ![Iron infusion](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 7 – Rhythm Rule
+
+*Sam (diary)* Telemetry bursts into a run of narrow tachy—AF with RVR. Beta‑blocker dose due in an hour; I weigh rhythm versus rate.
+*Amina (diary)* Monitor beeps cascade like raindrops on a tin roof; Musa whispers the count: "one‑fifty, one‑forty‑eight…"
+**🧠 Question** First‑line rate control for haemodynamically stable atrial fibrillation in heart failure is:
+
+* A. Intravenous beta‑blocker
+* B. Digoxin loading
+* C. IV amiodarone
+  **✅ Correct** A **💡 Hint** Slow the storm, don’t shock it. **📘 Pearl** Beta‑blockers reduce ventricular response while preserving systolic function. **🏅 XP** systems
+  ![AF strip](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 8 – CRT Call
+
+*Sam (diary)* ECG reveals LBBB 160 ms; ventricles contracting out of sync like wipers on different speeds.
+*Amina (diary)* Sam sketches two heart shapes aligning, explaining the little lead that could.
+**🧠 Question** Cardiac resynchronisation therapy is most strongly indicated when QRS duration is ≥:
+
+* A. 150 ms with LBBB morphology
+* B. 120 ms without morphology criteria
+* C. 100 ms
+  **✅ Correct** A **💡 Hint** Wide and leftwards. **📘 Pearl** Resynchronisation halves mortality in selected HFrEF with broad LBBB. **🏅 XP** systems
+  ![CRT diagram](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+## Act III · Recovery & Departure
+
+---
+
+### Scene 1 – MRI Clarity
+
+*Sam (diary)* Cine MRI scrolls like midnight cinema; my eye catches dilated chambers shrinking under contrast whispers.
+*Amina (diary)* The tunnel’s hum is distant thunder; Musa waits outside with noise‑cancel phones and a game of chess on his lap.
+**🧠 Question** Cine MRI is most sensitive for detecting which heart‑failure‑related pathology?
+
+* A. Ventricular apical thrombus
+* B. Bronchiectasis
+* C. Pleural effusion
+  **✅ Correct** A **💡 Hint** Black hole in the apex. **📘 Pearl** MRI differentiates thrombus from myocardium with late gadolinium. **🏅 XP** diagnostic
+  ![Dilated‑LV MRI](https://hf-sswi.onrender.com/static/JT-mri-2ch-LVH.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 2 – Echo Better
+
+*Sam (diary)* Three months on, EF nudges 45 %; walls still thin, but pump less weary.
+*Amina (diary)* My breath no longer rattles at night; stairs bargain two pauses instead of five.
+**🧠 Question** An EF of 45 % is classified as:
+
+* A. Mildly reduced (HFmrEF)
+* B. Normal
+* C. Severely reduced
+  **✅ Correct** A **💡 Hint** Middle ground. **📘 Pearl** HFmrEF patients share benefit from triple therapy similar to HFrEF. **🏅 XP** systems
+  ![Moderate‑EF echo](https://hf-sswi.onrender.com/static/MH-echo-hypercm.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 3 – Calm Graphic
+
+*Sam (diary)* Digital animation shows two hearts side‑by‑side—one weak, one strong; Musa traces the difference with a stylus.
+*Amina (diary)* Colours shift from stormy blues to gentle greens, just like my mornings.
+**🧠 Question** The graphic comparing stroke volume in HFpEF versus HFrEF shows preserved EF when:
+
+* A. Stroke volume is maintained despite high filling pressure
+* B. Ventricular cavity markedly dilated
+* C. EF < 40 %
+  **✅ Correct** A **💡 Hint** Ratio stays but pressure climbs. **📘 Pearl** HFpEF features stiff ventricle with preserved pump ratio yet raised diastolic pressure. **🏅 XP** empathy
+  ![Preserved‑EF graphic](https://hf-sswi.onrender.com/static/Preserved-Ejection-Fraction.gif)
+  Choose A, B, or C →
+
+---
+
+### Scene 4 – Scale Watch
+
+*Sam (diary)* Discharge plan typed twice—first version lost in spell‑check jungle; second shines with bold fonts for weight tracking.
+*Amina (diary)* New bathroom scales sit like sentinels; Musa programs a reminder at 07:00 sharp.
+**🧠 Question** A sudden weight gain of ≥ 2 kg over three days in a heart‑failure patient usually indicates:
+
+* A. Rapid fluid accumulation
+* B. Increase in lean muscle
+* C. Normal diurnal variation
+  **✅ Correct** A **💡 Hint** Water is heavy. **📘 Pearl** Early self‑monitoring prompts timely diuretic adjustment, reducing readmission. **🏅 XP** systems
+  ![Pitting oedema](https://hf-sswi.onrender.com/static/Combinpedal.jpg)
+  Choose A, B, or C →
+
+---
+
+### Scene 5 – Open Door
+
+*Sam (diary)* Follow‑up booked within ten days; I triple‑check the date digits—no swaps this time.
+*Amina (diary)* Walking out, rain feels softer; Musa counts puddles, laughter bubbling between numbers.
+**🧠 Question** Early heart‑failure clinic review within 14 days post‑discharge has been shown to primarily reduce:
+
+* A. 30‑day readmission rates
+* B. Chronic kidney disease incidence
+* C. Atrial septal defect formation
+  **✅ Correct** A **💡 Hint** Early eyes, fewer returns. **📘 Pearl** Transitional care models halve unplanned readmissions. **🏅 XP** empathy
+  ![Reduced‑EF graphic](https://hf-sswi.onrender.com/static/Reduced-Ejected-Fraction.gif)
+  Choose A, B, or C →
+
+---
+
+## Add‑On Scenes · Advanced Therapy
+
+---
+
+### SGLT2 Start
+
+*Sam (diary)* Dapagliflozin—five syllables, one game‑changer. I teach the renal nurse our dosing chart.
+*Amina (diary)* A new pill joins the lineup; Musa designs a colour‑coded box so I never miss a dawn dose.
+**🧠 Question** In the landmark trial, dapagliflozin reduced the composite endpoint of cardiovascular death or heart‑failure hospitalisation by approximately:
+
+* A. 26 %
+* B. 5 %
+* C. 60 %
+  **✅ Correct** A **💡 Hint** A quarter cut. **📘 Pearl** Benefits were consistent regardless of diabetes status. **🏅 XP** systems
+  ![Reduced‑EF graphic](https://hf-sswi.onrender.com/static/Reduced-Ejected-Fraction.gif)
+  Choose A, B, or C →
+
+---
+
+### Device Ladder
+
+*Sam (diary)* We discuss CRT, ICD, LVAD like rungs on an invisible ladder—each higher, narrower.
+*Amina (diary)* I grip Musa’s hand; he taps out the sequence 1‑2‑3, calm as code.
+**🧠 Question** Which device both paces both ventricles and can deliver defibrillation shocks?
+
+* A. CRT‑D
+* B. Single‑chamber ICD
+* C. Subcutaneous loop recorder
+  **✅ Correct** A **💡 Hint** Two jobs, one box. **📘 Pearl** CRT‑D offers resynchronisation plus protection from sudden arrhythmia. **🏅 XP** systems
+  ![CRT‑D icon](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
+### Palliative Breath
+
+*Sam (diary)* Dusk filters through blinds; morphine syringe driver hums like distant thunder, softer now. I spell "comfort" correctly—letters align like calm waves.
+*Amina (diary)* Pain unfurls its fist; I float. Musa counts the seconds between my easier breaths and smiles.
+**🧠 Question** Palliative referral in advanced heart failure primarily aims to improve which outcome?
+
+* A. Quality of life
+* B. Left ventricular ejection fraction
+* C. Coronary artery patency
+  **✅ Correct** A **💡 Hint** Comfort over cure. **📘 Pearl** Early palliative input enhances symptom control and patient satisfaction. **🏅 XP** empathy
+  ![Comfort care icon](https://hf-sswi.onrender.com/static/placeholder.gif)
+  Choose A, B, or C →
+
+---
+
 *End of Library*
