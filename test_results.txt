@@ -1,0 +1,54 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-8.4.1, pluggy-1.6.0 -- /usr/bin/python
+cachedir: .pytest_cache
+rootdir: /home/runner/work/HF/HF
+plugins: anyio-4.10.0
+collecting ... collected 18 items
+
+test_app.py::TestRootEndpoint::test_root_returns_correct_message PASSED  [  5%]
+test_app.py::TestOpenAPIEndpoint::test_openapi_endpoint_exists PASSED    [ 11%]
+test_app.py::TestGameplayEndpoints::test_record_decision_valid_input PASSED [ 16%]
+test_app.py::TestGameplayEndpoints::test_record_decision_incorrect_outcome PASSED [ 22%]
+test_app.py::TestGameplayEndpoints::test_record_decision_partial_outcome PASSED [ 27%]
+test_app.py::TestGameplayEndpoints::test_record_decision_invalid_outcome PASSED [ 33%]
+test_app.py::TestGameplayEndpoints::test_record_decision_invalid_confidence PASSED [ 38%]
+test_app.py::TestGameplayEndpoints::test_night_shift_page PASSED         [ 44%]
+test_app.py::TestBannerGeneration::test_generate_banner_svg_default PASSED [ 50%]
+test_app.py::TestBannerGeneration::test_generate_banner_svg_with_params PASSED [ 55%]
+test_app.py::TestGameStateManagement::test_user_creation PASSED          [ 61%]
+test_app.py::TestGameStateManagement::test_bucket_classification PASSED  [ 66%]
+test_app.py::TestGameStateManagement::test_evaluate_function_correct_outcome PASSED [ 72%]
+test_app.py::TestGameStateManagement::test_evaluate_function_combo_building PASSED [ 77%]
+test_app.py::TestGameStateManagement::test_evaluate_function_alert_debt PASSED [ 83%]
+test_app.py::TestGameStateManagement::test_state_persistence PASSED      [ 88%]
+test_app.py::TestStaticFiles::test_static_directory_exists PASSED        [ 94%]
+test_app.py::TestIntegration::test_complete_user_workflow PASSED         [100%]
+
+============================== 18 passed in 0.44s ==============================
+EchoSim Heart Failure Simulation - Test Suite
+============================================================
+
+🚀 Testing Server Startup...
+✅ Server starts successfully
+🧪 Running EchoSim Test Suite
+==================================================
+
+✅ All tests passed!
+
+📊 Test Coverage Summary:
+- ✅ API Endpoints (record_decision, night_shift_page, generate_banner_svg)
+- ✅ Game State Management (user creation, XP tracking, combos)
+- ✅ SVG Banner Generation (with parameter scaling)
+- ✅ Error Handling (validation, malformed requests)
+- ✅ Integration Workflows (complete user journey)
+- ✅ Static File Serving
+
+🎯 Application Status: FULLY TESTED AND WORKING
+
+🎉 SUCCESS: EchoSim application is fully tested and working!
+📋 Summary:
+   - All 18 test cases pass
+   - All API endpoints functional
+   - Game mechanics working correctly
+   - SVG banner generation operational
+   - State persistence verified
